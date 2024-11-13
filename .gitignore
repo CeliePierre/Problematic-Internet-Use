@@ -2,5 +2,7 @@ kaggle_data/
 venv/
 temp.ipynb
 submissions/
-kaggle-notebook copy 2.ipynb
-kaggle-notebook copy.ipynb
+kaggle-notebook_copy-2.ipynb
+kaggle-notebook_copy.ipynb
+.gitattributes
+kaggle-notebook_AG-edits.ipynb
