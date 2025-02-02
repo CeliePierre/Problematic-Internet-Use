@@ -54,10 +54,6 @@ This project demonstrates the potential of using physical activity and fitness d
 - Anusha Ghimire: [![GitHub Profile](https://img.shields.io/badge/GitHub-anu--sha19-181717?logo=github&logoColor=white)](https://github.com/anu-sha19)
 - Célie Pierre: [![GitHub Profile](https://img.shields.io/badge/GitHub-CeliePierre-181717?logo=github&logoColor=white)](https://github.com/CeliePierre)
 
-## Citation
-
-Adam Santorelli, Arianna Zuanazzi, Michael Leyden, Logan Lawler, Maggie Devkin, Yuki Kotani, and Gregory Kiar. Child Mind Institute — Problematic Internet Use. https://kaggle.com/competitions/child-mind-institute-problematic-internet-use, 2024. Kaggle.
-
 ## Figures
 
 ![Figure 1](images/fig1.png)
@@ -83,3 +79,7 @@ Adam Santorelli, Arianna Zuanazzi, Michael Leyden, Logan Lawler, Maggie Devkin, 
 ![Figure 6](images/fig6.png)
 
 *Figure 6: Confusion matrix*
+
+## Citation
+
+Adam Santorelli, Arianna Zuanazzi, Michael Leyden, Logan Lawler, Maggie Devkin, Yuki Kotani, and Gregory Kiar. Child Mind Institute — Problematic Internet Use. https://kaggle.com/competitions/child-mind-institute-problematic-internet-use, 2024. Kaggle.
